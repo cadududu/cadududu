@@ -9,8 +9,7 @@
   <img align="center" alt="Cadu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cadu-SQL" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-  <img align="right" alt="Cadu-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/giyuu-tomioka-anime-sword-gif-16059673">
+  <img align="right" alt="Cadu-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/348919235881467904/891060976818991144/904900121928564796">
 </div>
   
   ##
