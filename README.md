@@ -22,6 +22,6 @@
   <a href = "mailto:carloseduu2109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/39sa5pjxijyvhpkwk9w9l8fwy" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cadududu/cadududu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
